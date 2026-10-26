@@ -1,0 +1,6 @@
+{
+  "name": "status-line",
+  "owner": { "name": "nhattuan1305" },
+  "description": "Colored usage status line for Claude Code",
+  "plugins": [{ "name": "status-line", "source": "./" }]
+}

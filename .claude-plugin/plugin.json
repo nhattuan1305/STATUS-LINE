@@ -1,0 +1,6 @@
+{
+  "name": "status-line",
+  "version": "0.1.0",
+  "description": "4-line colored status line: directory, model, session tokens, context and 5h/7d rate limits",
+  "author": { "name": "nhattuan1305" }
+}
